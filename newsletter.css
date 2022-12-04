@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: #181818;
+    margin: 0;
+}
+
+.nav-container {
+    background-color: #8758FF;
+    margin: 0;
+}
+
+.link {
+    text-align: left;
+    font-size: 30px;
+    text-decoration: none;
+    display: block;
+    float: left;
+    margin-top: 5px;
+}
+
+.link p {
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8758FF;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #723BFF;
+}
+
+/*nav style completed*/
+
+.newsletter-box h1 {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+form {
+    text-align: center;
+    margin-top: 200px;
+}
+
+form label {
+    color: white;
+    font-size: xx-large;
+}
+
+form #email {
+    height: 25px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+form #button {
+    background-color: #8758FF;
+    margin-top: 10px;
+    height:35px ;
+    width: 85px;
+    border-radius: 10px;
+}
+
+
+/*newsletter.css ends*/
