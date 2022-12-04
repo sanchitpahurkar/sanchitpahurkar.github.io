@@ -1,2 +1,1 @@
-# static-website
-This is the first ever website I built using HTML and basic CSS.
+[README.md](https://github.com/sanchitpahurkar/static-website/files/10147905/README.md)
